@@ -6,6 +6,6 @@ https://www.terrateam.io/
 
 🪂 [Issues](https://github.com/terrateamio/roadmap/issues/new/choose)
 
-🪃 [Documentation](https://www.terrateam.io/docs)
+🪃 [Documentation](https://docs.terrateam.io/)
 
 🐙 [Roadmap](https://github.com/terrateamio/roadmap)
