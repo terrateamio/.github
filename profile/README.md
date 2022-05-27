@@ -1,6 +1,6 @@
 ## Terrateam 👋
 
-https://www.terrateam.io/
+https://terrateam.io/
 
 💡 Infrastructure as Code CI/CD
 
