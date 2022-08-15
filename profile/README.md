@@ -6,4 +6,4 @@ https://terrateam.io/
 
 🪃 [Documentation](https://docs.terrateam.io/)
 
-🐙 [Roadmap](https://github.com/orgs/terrateamio/projects/2)
+🐙 [Roadmap](https://roadmap.terrateam.io/)
