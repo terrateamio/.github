@@ -1,9 +1,9 @@
-## Terrateam 👋
+## [Terrateam](https://terrateam.io)
 
-https://terrateam.io/
+Terrateam is a CI/CD platform that enables your entire team to make Terraform changes with GitHub pull requests.
 
-💡 Infrastructure as Code CI/CD
+🪃 [Documentation](https://terrateam.io/docs)
 
-🪃 [Documentation](https://docs.terrateam.io/)
+🐙 [Roadmap](https://roadmap.terrateam.io)
 
-🐙 [Roadmap](https://roadmap.terrateam.io/)
+💬 [Slack](https://terrateam.io/slack)
