@@ -1,6 +1,6 @@
 ## [Terrateam](https://terrateam.io)
 
-Terrateam is a CI/CD platform that enables your entire team to make Terraform changes with GitHub pull requests.
+Terrateam is Terraform GitOps with GitHub Pull Requests. Collaborate, plan, and apply alongside the rest of your code.
 
 🪃 [Documentation](https://terrateam.io/docs)
 
