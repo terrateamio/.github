@@ -1,6 +1,6 @@
 ## [Terrateam](https://terrateam.io)
 
-Terrateam is Terraform GitOps with GitHub Pull Requests. Collaborate, plan, and apply alongside the rest of your code.
+Terraform automation for teams. Purpose-built for GitHub.
 
 🪃 [Documentation](https://terrateam.io/docs)
 
