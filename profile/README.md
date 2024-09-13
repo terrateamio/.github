@@ -1,9 +1,9 @@
 ## [Terrateam](https://terrateam.io)
 
-Terraform automation for teams. Purpose-built for GitHub.
+Infrastructure Orchestration for Terraform, OpenTofu, CDKTF, and Terragrunt
 
 🪃 [Documentation](https://terrateam.io/docs)
 
-🐙 [Roadmap](https://roadmap.terrateam.io)
+🐙 [Roadmap](https://terrateam.io/docs)
 
 💬 [Slack](https://terrateam.io/slack)
