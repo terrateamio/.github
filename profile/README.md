@@ -4,6 +4,6 @@
 
 🪃 [Documentation](https://docs.terrateam.io/)
 
-🐙 [Main Repository](https://github.com/terrateamio/terrateam)
+🐪 [Main Repository](https://github.com/terrateamio/terrateam)
 
 💬 [Slack](https://terrateam.io/slack)
