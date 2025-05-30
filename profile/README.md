@@ -1,9 +1,9 @@
 ## Terrateam
 
-[Terrateam](https://terrateam.io) is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests.
+[Terrateam](https://terrateam.io) is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 
 🪃 [Documentation](https://docs.terrateam.io/)
 
-🐙 [Roadmap](https://terrateam.io/roadmap)
+🐙 [Main Repository](https://github.com/terrateamio/terrateam)
 
 💬 [Slack](https://terrateam.io/slack)
